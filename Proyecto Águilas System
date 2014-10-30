@@ -1,0 +1,301 @@
+
+
+ 
+ÍNDICE
+
+1.	Aprobaciones.	4
+2.	Revisiones.	4
+3.	Introducción.	4
+3.1.	Antecedentes.	4
+3.2.	Identificación del Proyecto.	4
+3.3.	Justificación.	5
+3.4.	Propósito del Proyecto.	5
+3.5.	Alcance del  Proyecto.	5
+3.6.	Áreas Beneficiadas.	5
+3.7.	Integración con otros Proyectos relacionados.	6
+3.8.	Beneficios Funcionales.	6
+3.9.	Entregable.	6
+4.	Organización del Proyecto.	6
+4.1.	Lugar de Ejecución.	6
+4.2.	Costo Estimado del Proyecto.	7
+4.3.	Recursos Afectados.	7
+4.4.	Ciclo de Vida del Proyecto.	8
+4.5.	Estructura del Proyecto.	9
+4.6.	Responsabilidades del Proyecto.	10
+4.7.	Recursos Humanos.	10
+5.	Administración del Proyecto.	11
+5.1.	Objetivos, Metas y Prioridades.	11
+5.2.	Supuestos, Dependencias y Restricciones.	11
+5.3.	Administración de Riesgo.	12
+5.4.	Variable de Control y Monitoreo.	12
+5.5.	Aspecto Claves a Comunicar.	12
+6.	Recursos Técnicos necesarios y productos.	12
+6.1.	Métodos, herramientas y productos.	12
+6.2.	Estándares y Procedimientos.	12
+6.3.	Productos.	13
+7.	Criterios de Cierre del Proyecto.	13
+8.	Anexos.	14
+    8.1.       Plan Detallado.	14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Aprobaciones
+Unidad	Aprobado	Firma	Fecha
+Departamento de Tecnología CCMITS	Si   ________
+No ________		01/08/2014
+Director Jehiel Linárez	Si   ________
+No ________		01/08/2014
+
+	Todos los involucrados en el departamento de tecnología se comprometen a cumplir con las demandas del proyecto “Águilas System”. Estando bajos las órdenes del gerente de proyecto Douglas Carrascosa.
+
+
+____________________________
+Douglas Carrascosa
+ 
+2. Revisiones
+Versión	Fecha	Autor	Descripción
+1.0	07/08/2014	Leonardo Hernández	Enmaquetado del Sistema
+1.1	09/08/2014	Shayanne Barreto	Diseño Gráfico del sistema
+1.2	19/08/2014	Leonardo Hernández	Funcionalidad de los Maestros
+1.3	22/08/2014	Marilin Silva	Funcionalidad de un 50%
+1.4	01/09/2014	Leonardo Hernández	Funcionalidad de un 70%
+1.5	12/09/2014	Leonardo Hernández	Sistema Completado
+
+
+Yo, Douglas Carrascosa, doy fe de que todas las revisiones son correctas y están en función a lo planteado en el problema.
+
+_______________________________
+Douglas Carrascosa
+ 
+3. Introducción
+3.1. Antecedentes
+	En la empresa Águilas protección integral se lleva un control de vigilantes y sus áreas a vigilar, por el departamento de recursos humanos, dicho control es funcional para un total de cincuenta vigilantes, ya que el proceso se lleva a mano y su control no está estandarizado, actualmente la empresa cuenta con más cien vigilantes y su control escapa de las manos, incluso se han presentado perdidas en clientes potenciales.
+3.2. Identificación del Problema
+	El sistema que hasta ahora se lleva de forma manual presenta errores humanos, es decir, un vigilante debe estar en un lugar a cierta hora, ya que el lugar no es constante los vigilantes tiene que estar rotando de sitio en sitio, en caso de inasistencia de un vigilante de hace un ajuste y se llama a otro vigilante que este libre para que cubra su puesto, el error humano se presenta en el momento en que la cantidad de vigilantes a manejar supera los cincuenta, actualmente la empresa tiene ciento treinta y cinco vigilantes y la gestión escapa de las manos.
+3.3. Justificación
+	Debido a que la empresa no puede permitirse la pérdida de clientes, ni el desagrado de los empleados, esta decide contratar nuestros servicios para que el problema sea solventado y así no tener mas perdidas
+3.4. Propósito del proyecto
+	El proyecto “Águilas System” debe poder gestionar el vigilante y el sitio donde este debe estar en el día además generar reportes de actividades realizadas con una flexibilidad de generación de reportes, también debe anexar a dos entes nuevos al sistema de la empresa, El Monitor que es el encargado de manejar el sistema y confirmar la llegada de los vigilantes a sus sitios; y el Supervisor este está encargado de hacer cumplir y verificar la asistencia del vigilante en el sitio teniendo estrecha comunicación con el monitor.
+
+
+3.5. Alcance del proyecto
+	El proyecto podrá realizar un máximo de siete reportes, podrá generar cuatro tipos de usuarios tales como:
+Director: Jefe y encargado del buen funcionamiento del sistema, por lo general el director de la empresa y/o Gerente General
+Supervisor: Encargado de velar por el cumplimiento de las reglas en cuanto a los vigilantes
+Monitor: Encargado y técnico del sistema
+Vigilante: Con un acceso al sistema donde solo puede ver su perfil y presentar reportes personales como también los pagos realizados.
+	Por otro lado, el sistema podrá usarse como una intranet en la empresa Águilas Protección Integral usando las conexiones y maquinas existentes en el lugar.
+3.6. Áreas Beneficiadas
+	El sistema va dirigido al departamento de recursos humanos, quienes serán los beneficiados y a partir de la implantación quedaran absueltos del trabajo hasta ahora realizado a mano, siendo ellos los beneficiados directos.
+	La empresa como ente queda beneficiada en cuanto a su nombre y renombre, pudiendo ahora cumplir con los requerimientos que el cliente deseé.
+	Los vigilantes los cuales ya tendrán un mejor manejo de información para el cumplimiento de su labor.
+3.7. Integración con otros proyectos relacionados.
+Depende de	Nombre del proyecto	Factores relacionados	Estado
+Si	Servidor Hosting	Por ser una aplicación web, requiere estar alojado en un servidos hosting, y en ese dominio poder manipular la base de datos.	En ejecución.
+Si	Base de datos	Diseño de los diagramas donde se muestran las relaciones y los atributos de cada una de las tablas.	En producción.
+
+3.8. Beneficios Funcionales
+Mejora del servicio prestado por la empresa
+Menos mano de obra humana para el ejercicio de la tarea
+Integración con el actual sistema y con el sistema de GPS satelital.
+3.9. Entregable
+	El proyecto hace entrega de un Software que cumple con los requerimientos de la empresa Águilas Protección Integral, más las funciones que permiten hacer el trabajo más sencillo tales como poder gestionar el vigilante y el sitio, los reportes generados y Menos mano de obra humana
+
+
+
+_____________________________________
+Director Águilas Protección Integral.
+ 
+4. Organización del proyecto
+4.1. Lugar de Ejecución
+En cuatro Computadores de la empresa, específicamente, la del Gerente General en su oficina, la del Director en su oficina, en recursos humanos y en Monitoreo.
+4.2. Costo Estimado del proyecto.
+Recursos	Capacidad Máxima	Cantidad	Tasa Estándar	Tiempo de desempeño	Costo/Recursos
+Gerente de Proyecto	30%	1	13	50 Horas	11.000Bsf
+Diseñador	50%	2	18	70 Horas	12.000Bsf
+Programador	70%	2	26	160 Horas	18.000bsf
+				Total	41.000bsf
+
+Software
+Recursos	Características	Coste Estimado
+WampServer	Manejador de Base de datos, Servidor y El Php	0bsf
+	Inversión Aproximada	0
+
+4.3. Recursos Afectados.
+Consumo de energía eléctrica por el uso excesivo de las computadoras, y equipos de regulación de temperatura de los espacios (aire acondicionado).
+
+
+
+
+ 
+4.4. Ciclo de vida del proyecto
+
+  
+4.5. Estructura del proyecto.
+ 
+4.6. Responsabilidades del proyecto.
+Rol	Responsabilidades	Siguiente Nivel de Administración
+Líder del Proyecto	Es el encargado de gestionar y velar por los recursos y la actividades para la ejecución del proyecto, se involucra en todas las ares y garantiza la puesta en producción de cada actividad.	Gerente de la empresa
+Gerente general	Es quien se encarga de dirigir y supervisar y gestionar el buen funcionamiento de cada área y equipo de trabajo.	Líder del Proyecto
+Gerente institucional	Encargado de velar por que cada miembro de la institución, y que en cada área se cumpla eficientemente con las actividades programadas.	Líder del Proyecto
+Plataforma tecnológica	Es el equipo que se encarga de decidir cuales serán los recursos tecnológicos apropiados para el desarrollo e implantación del proyecto.	Líder del Proyecto
+Comité de asesoría técnica	Equipo que se encarga de accesorar en cuanto a problemas técnicos, y de mantenimiento	Líder del Proyecto
+Comité de asesoría lógica	Equipo que se encarga de asesorar en cuanto a los procesos y procedimientos a seguir en el desarrollo de cada fase del proyecto	Líder del Proyecto
+Departamento de diseño	Es el grupo responsable de diseñar todas la interfaces del sistema, así como de diseñar las actividades a realizar para cumplir con los requerimientos del proyecto.	Líder del Proyecto
+Departamento de programación	Se encarga el desarrollo del software directamente, de validar cada proceso, y de la seguridad e integridad en cada elemento del sistema.	Líder del Proyecto
+Auditoria y seguridad	Se encarga de examinar si los procesos cumplen con los requerimientos, y que los resultados sean íntegros, confiables y seguros.	Líder del Proyecto
+
+4.7. Recursos humanos.
+Rol	Nivel Mínimo	Personal
+Líder de proyecto	Capacidad para tomar decisiones certeras, conocimiento en programación orientado a web, y manejo de base de datos.	Leonardo Hernández.
+Gerente general	Conocimiento y experiencia en administración de recursos (humanos y económicos).	Lic. Douglas Carrascosa.
+Gerente institucional	Conocimiento y experiencia en administración de recursos (humanos y económicos).	Lic. Gisela Cordas.
+Plataforma tecnológica	Conocimiento de las tecnologías más actuales y de sus ventajas y desventajas, costos.	Ing. Willian Torrellas.
+Comité de asesoría técnica	Dominio y experiencia en arquitectura del computador.  Programación orientada a web y base de datos.	Ing. Marilin Silva.
+Comité de asesoría lógica	Dominio en manejadores de base de datos, programación, y diseño.	Ing. Marilin Silva.
+Departamento de diseño	Conocimiento de manejo de herramientas de edición de imágenes, lenguajes de etiquetas (HTML) y de diseño (CSS, bootstrap.).	Ing. Shayanne Barreto
+Departamento de programación	Lenguaje de programación orientado a eventos javascript, jquery, HTML, php, mysql, CSS.	Leonardo Hernández,
+ Ing. Marilin Silva.
+Auditoria y seguridad	Conocimiento de la situación actual de cada grupo y cada actividad, uso de estándares para auditorias, conocimiento en manejo de base de datos.	Leonardo Hernández. 
+
+5. Administración del proyecto.
+5.1. Objetivos, metas, y prioridades.
+Objetivos
+	Implantar un sistema automatizado que Gestione el manejo de los vigilantes y los sitios a los que ellos deben asistir diariamente, generar reportes y Eliminar el error humano en lo posible en la empresa Águilas Protección Integral.
+Metas
+	Implantar un sistema que en base a los requerimientos cumpla con lo establecido haciendo uso de este como una herramienta para la optimización de procesos de forma tal que el tiempo y los recursos proporcionado para estas tareas sea reducido en un cincuenta por ciento, tanto humanos como materiales.
+Prioridades
+•	Levantamiento de información
+•	Comprar un servidor de prueba
+•	Diseñar una interfaz de usuaria amigable
+Diseñar un algoritmo programable que tome actitudes de un sistema experto.
+5.2. Supuestos, dependencias, y restricciones.
+Supuestos
+Permanencia y dedicación de Programadores
+Permanencia y dedicación de Diseñadores
+Buena Gestión del Gerente de Proyecto
+Sin interrupción de energía eléctrica
+
+Dependencias
+Para la implantación del sistema se depende de la información que suministro el personal para el levantamiento de información, y el director.
+Restricciones
+Maquinas con la capacidad de soportar el sistema para su buen funcionamiento tanto como también tomando en cuenta la adquisición de nuevas máquinas de ser necesarias.
+5.3. Administración de riesgos.
+Riesgo	Administración
+Perdida de la energía eléctrica.	Comprar un ups.
+Mala gestión de proyecto.	Buenos incentivos (como alternativo usar otro personal).
+
+5.4. Variables de control y monitoreo.
+Descripción	Tipo	Mecanismo	Responsable
+Costos	Control	Representan los cargos monetarios que el cliente pagara por el proyecto.	Gerente general.
+Calendario	Control	Denota las fechas en que se darán los entregables al cliente, así como los días limites para terminar un modulo o actividad.	Líder de proyecto.
+Funcionalidad	Monitoreo	Se pone a prueba la validación y los procesos de cada modulo del sistema que se ha terminado.	Auditoria y seguridad.
+Calidad	Ambas	Se verifica que cada modulo y proceso cumpla con los requerimientos.	Líder de proyecto,
+Auditoria y seguridad,
+Comité de asesoría lógica y técnica.
+
+
+
+
+5.5. Aspectos claves a comunicar.
+Aspectos a Comunicar	Periodicidad
+Hitos	
+Estado del proyecto	
+Retrasos	
+Satisfacción del Usuario	
+
+6. Recursos técnicos necesarios y productos.
+6.1. Métodos, herramientas e insumos.
+Cantidad	Descripción	Tipo
+3	Mínimo de Computadoras para uso del sistema en la empresa de vigilancia.	Insumo
+1	Hosting para dominio de la aplicación web.	Insumo
+1	Manual de Usuario físico en video.	Herramienta
+1	Manual de usuario digital en texto e imágenes.	Herramienta
+4	Adiestramientos para los usuarios finales del sistema en la empresa. 	Método.
+
+6.2. Estándares y procedimientos.
+Las herramientas en el diseño fueron:
+- Diagramas UML. (diagrama de casos de uso, diagrama de clases, diagrama de actividad).
+- Modelos entidad relación.
+- Diagramas de Gantt.
+- Lenguajes de etiquetas (HTML, html5).
+- Css3.
+- POO (programación orientada a objetos).
+- XP (programación extrema).
+- Frameworks y lenguajes de eventos (javascript, jquery, ajax).
+
+6.3. Productos.
+Producto	Fecha de Culminación	Entregable
+Análisis de requerimientos.	18 de agosto de 2014	no
+Diseño 	26 de agosto de 2014	Si
+Auditoria	10 de septiembre de 2014	
+Adiestramiento	16 de septiembre	Si
+Documentación	16 de septiembre	Si
+Implementación	19 de septiembre	SI
+
+7. Criterios de cierre de proyecto.
+Criterio
+1.	Realizar pruebas.
+2.	Corregir fallas encontradas.
+3.	Realizar auditoria de seguridad.
+4.	Entrega de manuales y documentación.
+5.	Adiestramiento.
+6.	Informe de auditoría.
+7.	Revisión del proyecto con la directiva de la empresa de vigilancia Águilas System.
+8.	Comunicar eficiencia de los recursos.
+9.	Declaración de cierre de proyecto.
+
+
+
+
+
+
+
+
+8. Anexos.
+Proyecto terminado funcional en la web.
+ 
+Presentación de la empresa en la aplicación.
+ 
+Nodo de validación de contraseñas de usuario.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+8.1. Plan detallado.
+Diagrama realizado con GanttProject (herramienta de escritorio, http://www.ganttproject.biz).
